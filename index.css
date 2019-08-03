@@ -132,9 +132,9 @@ img {border:0}
 
 
 .lapiao{position:fixed;bottom: 0;left: 0;right: 0;width:100%;height:50px;border-top:1px solid #e0e0e0;background-color:#FFF;z-index:1}
-.lapiao .l{float:left;padding-left:50px;height:48px;line-height:48px;background:url(../we7/images/lapiao.png) no-repeat 22px 14px;background-size:22px;color:#929292}
-.lapiao .r{float:right;height:48px;line-height:48px;background:url(../we7/images/lapiao.png) no-repeat 22px -23px;background-size:22px;color:#929292;padding :0 20px 0 50px}
-.lapiao .b{float:right;height:48px;line-height:48px;background:url(../we7/images/lapiao.png) no-repeat 22px -61px;background-size:22px;color:#929292;padding :0 20px 0 50px}
+.lapiao .l{float:left;padding-left:50px;height:48px;line-height:48px;background:url(http://cdn.weilianyun.com/we7/images/lapiao.png) no-repeat 22px 14px;background-size:22px;color:#929292}
+.lapiao .r{float:right;height:48px;line-height:48px;background:url(http://cdn.weilianyun.com/we7/images/lapiao.png) no-repeat 22px -23px;background-size:22px;color:#929292;padding :0 20px 0 50px}
+.lapiao .b{float:right;height:48px;line-height:48px;background:url(http://cdn.weilianyun.com/we7/images/lapiao.png) no-repeat 22px -61px;background-size:22px;color:#929292;padding :0 20px 0 50px}
 .lapiao .add{position:absolute;top:10px;left:50%;margin:-35px;padding:4px;width:68px;height:68px;border-radius:68px;background:#8607bb}
 .add .i{display:block;box-sizing:border-box;padding-top:23px;width:60px;height:60px;border-radius:60px;background:#f4d9ff;color:#b830f1;text-align:center;-webkit-animation:heartbborder 1s infinite linear;border:4px solid #b830f1;}
 .add .i i{display:block;margin:-18px auto 2px;width:20px;height:20px;}
